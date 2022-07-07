@@ -10,3 +10,4 @@ rifermento la parte concreta della cpu che equivale al processore al cui interno
 Dopo essersi assicurati di avere le predisposizioni adatte all' istallazione possiamo sportarci nel app-store windosw in cui si dovra
 scaricare e istallare "Windows Subsytem for Linux Preview" (che per l'appunto è un Layer di compatibilità, cioè un interfaccia che permett
 ai file binari di un sistema operativo (Linux) di essere eseguiti sul sistema ospite (guest)). A seguire dobbiamo scaricare "ubuntu" prendendo in riferimento quello senza la versione segnata, che sarà la più aggiornata e in uso.
+TEST
