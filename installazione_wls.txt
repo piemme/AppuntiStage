@@ -1,0 +1,12 @@
+ISTALLAZIONE WLS
+Come primo passo recarsi nel sul link ubuntu.com/wls e scegliere la istallazione della versione adatta al proprio
+sistema operativo. Al suo interno troveremo un tutorial di vari step da eseguire prima del raggiungimento del obbiettivo. 
+Prima cosa assicurarsi che la "build" del sistema operativo sia maggiore di 22.000, per ovvie necessità di funzionalità e aggiornamenti
+inclusi in essa (quindi rappresenta un numero di serie a cui dare riferimento per le eventuali caratteristiche di abilità).
+Abilitare dal "Pannello di controllo" la "Piattaforma di Macchine virtuali", questo permette la creazione di una macchina
+virtuale "guest" al interno della nostra già presente sistema operativo "lost". Con ciò si ha un incremento delle
+prestazioni e livelli di sicurezza e affidabilità sia per "lost" che per il "guest". Per sistema operativo Lost si ha come
+rifermento la parte concreta della cpu che equivale al processore al cui interno ha determinate funzionalità e che può tenere varie 
+Dopo essersi assicurati di avere le predisposizioni adatte all' istallazione possiamo sportarci nel app-store windosw in cui si dovra
+scaricare e istallare "Windows Subsytem for Linux Preview" (che per l'appunto è un Layer di compatibilità, cioè un interfaccia che permett
+ai file binari di un sistema operativo (Linux) di essere eseguiti sul sistema ospite (guest)). A seguire dobbiamo scaricare "ubuntu" prendendo in riferimento quello senza la versione segnata, che sarà la più aggiornata e in uso.
