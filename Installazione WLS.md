@@ -5,7 +5,6 @@
 
 ## Installazione
 
-
 -- Clicca [https://ubuntu.com/wsl](https://ubuntu.com/wsl)  per iniziare.
 
 -- Scegliere la versione di **Windows** in uso.
