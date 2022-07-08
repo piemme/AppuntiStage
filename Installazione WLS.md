@@ -3,7 +3,7 @@
 **WSL** è l’acronimo della definizione **sottosistema di Windows**  **per Linux**, ovvero la componente che permette di poter utilizzare tutte le funzioni e applicazioni direttamente sul sistema operativo Microsoft. La complessità che caratterizzava questa operazione è superata attraverso un processo virtuale riguardante **Hyper-V** di Microsoft: attraverso questo espediente tutte le peculiarità del sistema Linux saranno gestibili direttamente tramite la creazione di una **finestra CMD**.
 
 
-## Installazione
+## Installazione 
 
 -- Clicca [https://ubuntu.com/wsl](https://ubuntu.com/wsl)  per iniziare.
 
@@ -39,7 +39,7 @@
 
 -- Quindi avviare con **octave --gui &**.
 
--- abbiamo un altro esempio di applicativo su Linux per maggiori info sul app clicca [https://octave.org/](https://octave.org/)
+-- abbiamo un altro esempio di applicativo su Linux per maggiori info sul app clicca [https://octave.org/](https://octave.org/).
 
 
  
