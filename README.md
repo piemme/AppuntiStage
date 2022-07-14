@@ -80,7 +80,7 @@ Troverete due scelte tra Windows 10 e 11.
 
 ### VIDEO TUTORIAL DEI COMANDI
 
->[!VIDEO](https://youtu.be/ROjZy1WbCIA)
+>[!VIDEO](https://www.youtube.com/watch?v=ROjZy1WbCIA&t=0s)
 
 ----
 ##  GIT
