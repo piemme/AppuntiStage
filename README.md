@@ -78,9 +78,8 @@ Troverete due scelte tra Windows 10 e 11.
 | rmdir 'nome_cartella' | Rimuove la cartella. |
 | row 1 | column 2 |
 
-## VIDEO TUTORIAL DEI COMANDI
+### VIDEO TUTORIAL DEI COMANDI
 
->[!VIDEO](https://www.youtube.com/watch?v=ROjZy1WbCIA)
 >[!VIDEO](https://youtu.be/ROjZy1WbCIA)
 
 ----
