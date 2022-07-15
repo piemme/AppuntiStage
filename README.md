@@ -103,22 +103,29 @@ octave --gui &
 | **rmdir** *'nome_cartella'* | Rimuove la cartella. |
 
 
-### VIDEO TUTORIAL DEI COMANDI
+#### VIDEO TUTORIAL DEI COMANDI
 
->[!VIDEO](https://www.youtube.com/watch?v=ROjZy1WbCIA&t=0s)
+[![video](https://user-images.githubusercontent.com/105862368/179237259-84909424-6725-4f7e-8421-a70f557c6c99.png)](https://www.youtube.com/watch?v=ROjZy1WbCIA&t=0s)
 
 L'autore inizia dalla definizione e la sua istallazione nel proprio sistema operativo, spiega attentamente i comandi e i loro vantaggi con esempi e procedimenti eseguibili in step molto semplici, facili da seguire.
 
 ----
 - ## GIT
-![logo_git](https://user-images.githubusercontent.com/105862368/179202987-4a990f8a-2bdd-4118-9c8f-cc740d9d310d.png)
+![git](https://user-images.githubusercontent.com/105862368/179232106-29219d2a-583f-4aab-8e87-92e271117563.jpg)
+
+
 
 [Git](https://git-scm.com/) è un software per il controllo di versione distribuito utilizzabile da interfaccia a riga di comando, creato da Linus Torvalds nel 2005. Git nacque per essere un semplice strumento per facilitare lo sviluppo del kernel Linux ed è diventato uno degli strumenti di controllo versione più diffusi. 
+
+
+
 
 #### Consigli per l'apprendimento
 
 Seguire i tutorial su udemy [corso_1](https://www.udemy.com/course/git-started-with-github/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-nJ7w5HFJLzTmw.e36Z8ZiQ&utm_medium=udemyads&utm_source=aff-campaign), [corso_2](https://www.udemy.com/course/the-ultimate-git-5-day-challenge/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-Zre8AB3HJeh_8kkLWBV6mQ&utm_medium=udemyads&utm_source=aff-campaign).
 Sono completi di spiegazione e istallazione nelle varie piattaforme utilizzate, per non parlare che chiarisce i concetti del persorso del file, durante lo sviluppo di un progetto e le varie dinamiche possibili.
+
+![128hsgntnsu9bww0y8sz](https://user-images.githubusercontent.com/105862368/179229011-9243cf66-a985-4624-a01c-e62af57ea002.jpg)
 
 ### comandi
 
@@ -147,9 +154,12 @@ Sono completi di spiegazione e istallazione nelle varie piattaforme utilizzate, 
    | **git status** | Stampa lo stato e le differenze con il branch remoto. |
    | **git pull origin** nomebranch | Carica i file dal branch remoto. |
    
+   --
 
 
 ----
+
+![githubjpg](https://user-images.githubusercontent.com/105862368/179232185-100aa7b7-890c-45d7-8b6c-81dcd71b64fd.jpg)
 
 
 
