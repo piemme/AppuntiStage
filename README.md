@@ -103,11 +103,18 @@ octave --gui &
 | **rmdir** *'nome_cartella'* | Rimuove la cartella. |
 
 
-#### VIDEO TUTORIAL DEI COMANDI
+#### Video tutorial
 
 [![video](https://user-images.githubusercontent.com/105862368/179237259-84909424-6725-4f7e-8421-a70f557c6c99.png)](https://www.youtube.com/watch?v=ROjZy1WbCIA&t=0s)
 
 L'autore inizia dalla definizione e la sua istallazione nel proprio sistema operativo, spiega attentamente i comandi e i loro vantaggi con esempi e procedimenti eseguibili in step molto semplici, facili da seguire.
+
+#### Pagine utili
+
+In queste pagine vengono presentate dei primi esercizi per entrare in confidenza con i comandi linux. Esercizi con lo script nel terminale e vari video che aiutano la comprensione delle operazioni. 
+- [link1]( https://www.redhat.com/sysadmin/learn-bash-scripting)
+- [link2]( https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
+- [link3](https://www.learnshell.org/)
 
 ----
 - ## GIT
