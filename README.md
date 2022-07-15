@@ -1,11 +1,14 @@
+
+
 # Appunti Stage
+![stage](https://user-images.githubusercontent.com/105862368/179209783-c45eac83-f195-401f-a023-6e349dd43796.jpg)
 
 **Premessa di qusto repository, è una documentazione di ogni argomento o lavoro intrapreso durante lo stage.
 Qui trovereme i vari passaggi, annotazioni inerenti ai vari step superati.**
 
 
 ----
-## Indice
+- ## Indice
 1. [WSL](#wsl)
 2. [COMANDI LINUX](#comandi-linux)
 3. [GIT](#git)
@@ -78,7 +81,7 @@ octave --gui &
 #### Step 15: abbiamo un altro esempio di applicativo su Linux per maggiori info sul app clicca [octave](https://octave.org/).
 
 ----
-## Comandi Linux
+- ## Comandi Linux
 
 | comando | descrizione |
 |--- |--- |
@@ -107,7 +110,7 @@ octave --gui &
 L'autore inizia dalla definizione e la sua istallazione nel proprio sistema operativo, spiega attentamente i comandi e i loro vantaggi con esempi e procedimenti eseguibili in step molto semplici, facili da seguire.
 
 ----
-## GIT
+- ## GIT
 ![logo_git](https://user-images.githubusercontent.com/105862368/179202987-4a990f8a-2bdd-4118-9c8f-cc740d9d310d.png)
 
 [Git](https://git-scm.com/) è un software per il controllo di versione distribuito utilizzabile da interfaccia a riga di comando, creato da Linus Torvalds nel 2005. Git nacque per essere un semplice strumento per facilitare lo sviluppo del kernel Linux ed è diventato uno degli strumenti di controllo versione più diffusi. 
