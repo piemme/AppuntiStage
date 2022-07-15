@@ -6,9 +6,9 @@ Qui trovereme i vari passaggi, annotazioni inerenti ai vari step superati.**
 
 ----
 ## Indice
-- ### WLS
-- ### COMANDI LINUX
-- ### GIT
+1. [WSL](#wsl)
+2. [COMANDI LINUX](#comandi-linux)
+3. [GIT](#git)
 ----
 - ## WSL
 
@@ -78,7 +78,7 @@ octave --gui &
 #### Step 15: abbiamo un altro esempio di applicativo su Linux per maggiori info sul app clicca [octave](https://octave.org/).
 
 ----
-## COMANDI LINUX
+## Comandi Linux
 
 | comando | descrizione |
 |--- |--- |
@@ -104,11 +104,18 @@ octave --gui &
 
 >[!VIDEO](https://www.youtube.com/watch?v=ROjZy1WbCIA&t=0s)
 
+L'autore inizia dalla definizione e la sua istallazione nel proprio sistema operativo, spiega attentamente i comandi e i loro vantaggi con esempi e procedimenti eseguibili in step molto semplici, facili da seguire.
 
 ----
-##  GIT
+## GIT
+![logo_git](https://user-images.githubusercontent.com/105862368/179202987-4a990f8a-2bdd-4118-9c8f-cc740d9d310d.png)
 
 [Git](https://git-scm.com/) è un software per il controllo di versione distribuito utilizzabile da interfaccia a riga di comando, creato da Linus Torvalds nel 2005. Git nacque per essere un semplice strumento per facilitare lo sviluppo del kernel Linux ed è diventato uno degli strumenti di controllo versione più diffusi. 
+
+#### Consigli per l'apprendimento
+
+Seguire i tutorial su udemy [corso_1](https://www.udemy.com/course/git-started-with-github/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-nJ7w5HFJLzTmw.e36Z8ZiQ&utm_medium=udemyads&utm_source=aff-campaign), [corso_2](https://www.udemy.com/course/the-ultimate-git-5-day-challenge/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-Zre8AB3HJeh_8kkLWBV6mQ&utm_medium=udemyads&utm_source=aff-campaign).
+Sono completi di spiegazione e istallazione nelle varie piattaforme utilizzate, per non parlare che chiarisce i concetti del persorso del file, durante lo sviluppo di un progetto e le varie dinamiche possibili.
 
 ### comandi
 
@@ -118,7 +125,7 @@ octave --gui &
    | **git clone** /percorso/del/repository | Crea una copia di un repository locale. |
    | **git clone** nomeutente@host:/percorso/del/repository | Crea una copia si un repository da un server remoto. |
    | **git add** nomedelfile | Aggiunge le modifiche eseguite nel file selezionato. |
-   |  git add *  | Aggiunge tutte le modifiche eseguite. |
+   |  git add .  | Aggiunge tutte le modifiche eseguite. |
    | **git commit -m** "Messaggio per la commit" | Esegue un commento per validare le modifiche precedentemente aggiunte. |
    | **git push origin** nomebranch | Invia le modifiche effettuate nel branch remoto  selezionato.|
    | **git remote add origin** 'server' | Aggiunge i cambiamenti al server remoto. |
